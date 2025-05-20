@@ -1,5 +1,5 @@
 basic:
-    name: Bins-Schmidt
+    name: Gislason-Breitenberg
     environments:
         production: 'https://www.mos.org/'
         staging: ''
@@ -9,9 +9,9 @@ basic:
         - 1024
         - 1200
     pages:
-        - centers
-        - member
-        - node/add
+        - /centers
+        - /member
+        - /node/add
     monitoring:
         days: {  }
         type: ''
